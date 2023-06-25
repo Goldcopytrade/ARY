@@ -1,4 +1,4 @@
-# ariya ARY Coin : The Token Of Stable Coin Project
+# ariya ARY Coin : The Token Of Environment Ecosystem Project
 
 <div align="center"><img src="https://makecoin.live/wp-content/uploads/2023/06/logo300x300.fw_.png)" /><br />
 </div>
