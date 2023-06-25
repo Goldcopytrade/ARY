@@ -14,7 +14,7 @@ Environment refers to the surroundings, whereas, ecosystem is the interaction be
 # Payment gateway
 User MHAPPY Coin on MGP Shoppingmall. All transactions on the MGP Mall platform use MHAPPY as a payment gateway. Every transaction is verifiable. We have Partners participating in many MHAPPY Coin projects such as Defi, Staking, Forex, NFTs, Gaming, Trading, Lending, Teaching how to trade..
 
-# Contact ARY Coin
+# Contact ariya ARY
 
 
 📄 Whitepaper : https://docs.ariya.land
