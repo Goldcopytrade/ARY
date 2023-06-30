@@ -12,7 +12,7 @@
 Environment refers to the surroundings, whereas, ecosystem is the interaction between the environment and the living organisms. Environment is the area where living organisms live. Ecosystem is the community where the biotic and abiotic elements interact with each other.
 
 # Payment gateway
-User MHAPPY Coin on MGP Shoppingmall. All transactions on the MGP Mall platform use MHAPPY as a payment gateway. Every transaction is verifiable. We have Partners participating in many MHAPPY Coin projects such as Defi, Staking, Forex, NFTs, Gaming, Trading, Lending, Teaching how to trade..
+ARYCoin payment gateway. we built tokens on Binance smart chain as a highly secure blockchain payment gateway. It offers low fees and supports leading exchanges. can also be used to pay for goods discount 10% all transaction. marketing section is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
 
 # Contact ariya ARY
 
