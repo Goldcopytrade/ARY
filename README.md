@@ -20,7 +20,7 @@ Earn passive income on your investments up to 100% APY. Make passive income. let
 # Contact ariya ARY
 
 
-📄 Whitepaper : https://docs.ariya.land
+📄 Whitepaper : 
 
 💎 Twitter : 
 
